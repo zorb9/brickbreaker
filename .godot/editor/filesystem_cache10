@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1751663925
+ball.gd::GDScript::8129306157289947019::1751663752::0::1::::<>Area2D<><>0<>0<><>::
+ball.tscn::PackedScene::4322563875541650447::1751663752::0::1::::<><><>0<>0<><>::uid://dn25qqk2ran4n::::res://ball.gd<>uid://c1145q46ca0v2::::res://Art/ball.png
+icon.svg::CompressedTexture2D/CompressedTexture2D::7846138618951121002::1751331789::1751663930::1::::<><><>0<>0<>1758977ca542c1503e3ded74a78993ba<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player.gd::GDScript::8952118308667684679::1751663752::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::4994751823904239043::1751663752::0::1::::<><><>0<>0<><>::uid://d0sqc0g2j17h0::::res://player.gd<>uid://bqqnfha6dt4hd::::res://Art/bar4.png
+::res://Art/::1751663752
+ball.png::CompressedTexture2D::6653240376772103433::1751663752::1751663930::1::::<><><>0<>0<>d64c3858f25b1e34e0aea264e5a35030<>res://.godot/imported/ball.png-45d458068f60e8cba40b20ff93588e10.ctex::
+bar4.png::CompressedTexture2D::3543270844918802829::1751663752::1751663930::1::::<><><>0<>0<>9b84a75e88ba36839a714d9f3ab9ac7c<>res://.godot/imported/bar4.png-ae9ffb3b471bd0c03bf6d792d6073e16.ctex::
